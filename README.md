@@ -36,13 +36,13 @@
 
 ## 技术栈
 
-| 类别 | 技术 |
-|------|------|
-| 数据采集 | requests、BeautifulSoup |
-| 数据处理 | pandas、numpy |
-| 中文分词 | jieba、NLTK |
-| 可视化 | matplotlib、seaborn、wordcloud |
-| 数据存储 | CSV、JSON、openpyxl |
+| 类别   | 技术                           |
+| ---- | ---------------------------- |
+| 数据采集 | requests、BeautifulSoup       |
+| 数据处理 | pandas、numpy                 |
+| 中文分词 | jieba、NLTK                   |
+| 可视化  | matplotlib、seaborn、wordcloud |
+| 数据存储 | CSV、JSON、openpyxl            |
 
 ## 快速开始
 
